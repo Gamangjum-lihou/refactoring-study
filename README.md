@@ -40,6 +40,7 @@
 - [개발바닥](https://www.youtube.com/watch?v=51xsW7fH7fU)
 - [Utsav](https://youtu.be/0qNpFCpMl80?t=260)
   - [who?](https://www.linkedin.com/in/utsavized?original_referer=https%3A%2F%2Fwww.engineeringwithutsav.com%2F)
+- [리팩토링의 중요성 - 마틴 파울러](https://www.youtube.com/watch?v=mNPpfB8JSIU)
  
 
 ### 기타
