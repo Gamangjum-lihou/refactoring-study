@@ -30,6 +30,7 @@
 - [개인 단순정리](https://github.com/Youngerjesus/refactoring-2nd-edition)
 - [스터디](https://github.com/hanseul-lee/book-refactoring)
 - [스터디](https://github.com/Earthking-Dev-Study/Refactoring-2nd-Edition)
+- [스터디](https://github.com/Metacognition-Polymath/refactoring-2nd-edition)
 
 ---
 
